@@ -11,6 +11,7 @@ const Country = ({country, handleVisitedCountry, handleVisitedFlags}) => {
         setVisited(!visited)
     }
 
+    // console.log(handleVisitedFlags)
     // const passWithParams = () => handleVisitedCountry(country); 
 
     return (
